@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06LocalVar", "..\06LocalVar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07ClassAccess", "..\07ClassAccess\07ClassAccess.csproj", "{B1ADB29F-6518-4612-965A-86DD3F14C1CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Prctice", "..\04Prctice\04Prctice.csproj", "{7350ADAA-2A1C-43E3-B4FC-153B2FD993B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Prctice", "..\04Prctice\04Prctice.csproj", "{7350ADAA-2A1C-43E3-B4FC-153B2FD993B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08FuncEx", "..\08FuncEx\08FuncEx.csproj", "{DD375D68-138F-4522-B462-B6861A29A04D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7350ADAA-2A1C-43E3-B4FC-153B2FD993B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7350ADAA-2A1C-43E3-B4FC-153B2FD993B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7350ADAA-2A1C-43E3-B4FC-153B2FD993B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD375D68-138F-4522-B462-B6861A29A04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD375D68-138F-4522-B462-B6861A29A04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD375D68-138F-4522-B462-B6861A29A04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD375D68-138F-4522-B462-B6861A29A04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

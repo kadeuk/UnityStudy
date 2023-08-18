@@ -1,0 +1,14 @@
+D:\UNITYST\08FuncEx\bin\Debug\net6.0\08FuncEx.exe
+D:\UNITYST\08FuncEx\bin\Debug\net6.0\08FuncEx.deps.json
+D:\UNITYST\08FuncEx\bin\Debug\net6.0\08FuncEx.runtimeconfig.json
+D:\UNITYST\08FuncEx\bin\Debug\net6.0\08FuncEx.dll
+D:\UNITYST\08FuncEx\bin\Debug\net6.0\08FuncEx.pdb
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.AssemblyInfoInputs.cache
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.AssemblyInfo.cs
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.csproj.CoreCompileInputs.cache
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.dll
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\refint\08FuncEx.dll
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.pdb
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\08FuncEx.genruntimeconfig.cache
+D:\UNITYST\08FuncEx\obj\Debug\net6.0\ref\08FuncEx.dll

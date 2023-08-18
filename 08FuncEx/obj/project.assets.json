@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNITYST\\04Prctice\\04Prctice.csproj",
-      "projectName": "04Prctice",
-      "projectPath": "D:\\UNITYST\\04Prctice\\04Prctice.csproj",
+      "projectUniqueName": "D:\\UNITYST\\08FuncEx\\08FuncEx.csproj",
+      "projectName": "08FuncEx",
+      "projectPath": "D:\\UNITYST\\08FuncEx\\08FuncEx.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\UNITYST\\04Prctice\\obj\\",
+      "outputPath": "D:\\UNITYST\\08FuncEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
