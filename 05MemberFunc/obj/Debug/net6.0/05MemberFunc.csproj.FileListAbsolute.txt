@@ -1,0 +1,4 @@
+D:\UNITYST\05MemberFunc\obj\Debug\net6.0\05MemberFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\05MemberFunc\obj\Debug\net6.0\05MemberFunc.AssemblyInfoInputs.cache
+D:\UNITYST\05MemberFunc\obj\Debug\net6.0\05MemberFunc.AssemblyInfo.cs
+D:\UNITYST\05MemberFunc\obj\Debug\net6.0\05MemberFunc.csproj.CoreCompileInputs.cache

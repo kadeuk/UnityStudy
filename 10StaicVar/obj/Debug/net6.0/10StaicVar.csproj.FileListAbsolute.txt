@@ -1,0 +1,14 @@
+D:\UNITYST\10StaicVar\bin\Debug\net6.0\10StaicVar.exe
+D:\UNITYST\10StaicVar\bin\Debug\net6.0\10StaicVar.deps.json
+D:\UNITYST\10StaicVar\bin\Debug\net6.0\10StaicVar.runtimeconfig.json
+D:\UNITYST\10StaicVar\bin\Debug\net6.0\10StaicVar.dll
+D:\UNITYST\10StaicVar\bin\Debug\net6.0\10StaicVar.pdb
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.AssemblyInfoInputs.cache
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.AssemblyInfo.cs
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.csproj.CoreCompileInputs.cache
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.dll
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\refint\10StaicVar.dll
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.pdb
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\10StaicVar.genruntimeconfig.cache
+D:\UNITYST\10StaicVar\obj\Debug\net6.0\ref\10StaicVar.dll

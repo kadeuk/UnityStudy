@@ -3,7 +3,6 @@ D:\UNITYST\07ClassAccess\bin\Debug\net6.0\07ClassAccess.deps.json
 D:\UNITYST\07ClassAccess\bin\Debug\net6.0\07ClassAccess.runtimeconfig.json
 D:\UNITYST\07ClassAccess\bin\Debug\net6.0\07ClassAccess.dll
 D:\UNITYST\07ClassAccess\bin\Debug\net6.0\07ClassAccess.pdb
-D:\UNITYST\07ClassAccess\obj\Debug\net6.0\07ClassAccess.csproj.AssemblyReference.cache
 D:\UNITYST\07ClassAccess\obj\Debug\net6.0\07ClassAccess.GeneratedMSBuildEditorConfig.editorconfig
 D:\UNITYST\07ClassAccess\obj\Debug\net6.0\07ClassAccess.AssemblyInfoInputs.cache
 D:\UNITYST\07ClassAccess\obj\Debug\net6.0\07ClassAccess.AssemblyInfo.cs

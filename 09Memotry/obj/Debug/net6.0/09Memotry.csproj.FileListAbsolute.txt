@@ -1,0 +1,14 @@
+D:\UNITYST\09Memotry\bin\Debug\net6.0\09Memotry.exe
+D:\UNITYST\09Memotry\bin\Debug\net6.0\09Memotry.deps.json
+D:\UNITYST\09Memotry\bin\Debug\net6.0\09Memotry.runtimeconfig.json
+D:\UNITYST\09Memotry\bin\Debug\net6.0\09Memotry.dll
+D:\UNITYST\09Memotry\bin\Debug\net6.0\09Memotry.pdb
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.AssemblyInfoInputs.cache
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.AssemblyInfo.cs
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.csproj.CoreCompileInputs.cache
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.dll
+D:\UNITYST\09Memotry\obj\Debug\net6.0\refint\09Memotry.dll
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.pdb
+D:\UNITYST\09Memotry\obj\Debug\net6.0\09Memotry.genruntimeconfig.cache
+D:\UNITYST\09Memotry\obj\Debug\net6.0\ref\09Memotry.dll

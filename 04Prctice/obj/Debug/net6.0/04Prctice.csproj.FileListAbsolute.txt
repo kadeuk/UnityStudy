@@ -1,0 +1,14 @@
+D:\UNITYST\04Prctice\bin\Debug\net6.0\04Prctice.exe
+D:\UNITYST\04Prctice\bin\Debug\net6.0\04Prctice.deps.json
+D:\UNITYST\04Prctice\bin\Debug\net6.0\04Prctice.runtimeconfig.json
+D:\UNITYST\04Prctice\bin\Debug\net6.0\04Prctice.dll
+D:\UNITYST\04Prctice\bin\Debug\net6.0\04Prctice.pdb
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.AssemblyInfoInputs.cache
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.AssemblyInfo.cs
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.csproj.CoreCompileInputs.cache
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.dll
+D:\UNITYST\04Prctice\obj\Debug\net6.0\refint\04Prctice.dll
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.pdb
+D:\UNITYST\04Prctice\obj\Debug\net6.0\04Prctice.genruntimeconfig.cache
+D:\UNITYST\04Prctice\obj\Debug\net6.0\ref\04Prctice.dll
