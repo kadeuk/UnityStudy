@@ -1,0 +1,14 @@
+D:\UNITYST\14If\bin\Debug\net6.0\14If.exe
+D:\UNITYST\14If\bin\Debug\net6.0\14If.deps.json
+D:\UNITYST\14If\bin\Debug\net6.0\14If.runtimeconfig.json
+D:\UNITYST\14If\bin\Debug\net6.0\14If.dll
+D:\UNITYST\14If\bin\Debug\net6.0\14If.pdb
+D:\UNITYST\14If\obj\Debug\net6.0\14If.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\14If\obj\Debug\net6.0\14If.AssemblyInfoInputs.cache
+D:\UNITYST\14If\obj\Debug\net6.0\14If.AssemblyInfo.cs
+D:\UNITYST\14If\obj\Debug\net6.0\14If.csproj.CoreCompileInputs.cache
+D:\UNITYST\14If\obj\Debug\net6.0\14If.dll
+D:\UNITYST\14If\obj\Debug\net6.0\refint\14If.dll
+D:\UNITYST\14If\obj\Debug\net6.0\14If.pdb
+D:\UNITYST\14If\obj\Debug\net6.0\14If.genruntimeconfig.cache
+D:\UNITYST\14If\obj\Debug\net6.0\ref\14If.dll
