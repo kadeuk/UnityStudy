@@ -1,0 +1,14 @@
+D:\UNITYST\TextRpg001\bin\Debug\net6.0\TextRpg001.exe
+D:\UNITYST\TextRpg001\bin\Debug\net6.0\TextRpg001.deps.json
+D:\UNITYST\TextRpg001\bin\Debug\net6.0\TextRpg001.runtimeconfig.json
+D:\UNITYST\TextRpg001\bin\Debug\net6.0\TextRpg001.dll
+D:\UNITYST\TextRpg001\bin\Debug\net6.0\TextRpg001.pdb
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.AssemblyInfoInputs.cache
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.AssemblyInfo.cs
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.csproj.CoreCompileInputs.cache
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.dll
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\refint\TextRpg001.dll
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.pdb
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\TextRpg001.genruntimeconfig.cache
+D:\UNITYST\TextRpg001\obj\Debug\net6.0\ref\TextRpg001.dll

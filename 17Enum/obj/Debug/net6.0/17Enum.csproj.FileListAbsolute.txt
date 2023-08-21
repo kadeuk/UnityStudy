@@ -1,0 +1,14 @@
+D:\UNITYST\17Enum\bin\Debug\net6.0\17Enum.exe
+D:\UNITYST\17Enum\bin\Debug\net6.0\17Enum.deps.json
+D:\UNITYST\17Enum\bin\Debug\net6.0\17Enum.runtimeconfig.json
+D:\UNITYST\17Enum\bin\Debug\net6.0\17Enum.dll
+D:\UNITYST\17Enum\bin\Debug\net6.0\17Enum.pdb
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.AssemblyInfoInputs.cache
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.AssemblyInfo.cs
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.csproj.CoreCompileInputs.cache
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.dll
+D:\UNITYST\17Enum\obj\Debug\net6.0\refint\17Enum.dll
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.pdb
+D:\UNITYST\17Enum\obj\Debug\net6.0\17Enum.genruntimeconfig.cache
+D:\UNITYST\17Enum\obj\Debug\net6.0\ref\17Enum.dll

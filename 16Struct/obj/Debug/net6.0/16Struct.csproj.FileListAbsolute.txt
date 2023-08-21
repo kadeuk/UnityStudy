@@ -1,0 +1,14 @@
+D:\UNITYST\16Struct\bin\Debug\net6.0\16Struct.exe
+D:\UNITYST\16Struct\bin\Debug\net6.0\16Struct.deps.json
+D:\UNITYST\16Struct\bin\Debug\net6.0\16Struct.runtimeconfig.json
+D:\UNITYST\16Struct\bin\Debug\net6.0\16Struct.dll
+D:\UNITYST\16Struct\bin\Debug\net6.0\16Struct.pdb
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.AssemblyInfoInputs.cache
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.AssemblyInfo.cs
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.csproj.CoreCompileInputs.cache
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.dll
+D:\UNITYST\16Struct\obj\Debug\net6.0\refint\16Struct.dll
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.pdb
+D:\UNITYST\16Struct\obj\Debug\net6.0\16Struct.genruntimeconfig.cache
+D:\UNITYST\16Struct\obj\Debug\net6.0\ref\16Struct.dll
