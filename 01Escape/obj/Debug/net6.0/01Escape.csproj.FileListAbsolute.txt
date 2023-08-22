@@ -1,0 +1,14 @@
+D:\UNITYST\01Escape\bin\Debug\net6.0\01Escape.exe
+D:\UNITYST\01Escape\bin\Debug\net6.0\01Escape.deps.json
+D:\UNITYST\01Escape\bin\Debug\net6.0\01Escape.runtimeconfig.json
+D:\UNITYST\01Escape\bin\Debug\net6.0\01Escape.dll
+D:\UNITYST\01Escape\bin\Debug\net6.0\01Escape.pdb
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.AssemblyInfoInputs.cache
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.AssemblyInfo.cs
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.csproj.CoreCompileInputs.cache
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.dll
+D:\UNITYST\01Escape\obj\Debug\net6.0\refint\01Escape.dll
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.pdb
+D:\UNITYST\01Escape\obj\Debug\net6.0\01Escape.genruntimeconfig.cache
+D:\UNITYST\01Escape\obj\Debug\net6.0\ref\01Escape.dll

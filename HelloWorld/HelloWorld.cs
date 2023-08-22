@@ -1,13 +1,17 @@
 ﻿using System;
-using static System.Console;
+
 
 
 class HelloWorld
 {
     static void Main()
     {
-        WriteLine("Hello World");
-        ReadLine();
+        Console.WriteLine("Hello World");
+        Console.WriteLine("줄\n바꿈");
+        Console.WriteLine("{0}", "Hello, C#");
+        Console.WriteLine("{1},{0}", "Hello, C#");
+
+        Console.ReadLine();
         
 
     }

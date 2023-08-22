@@ -1,0 +1,14 @@
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.AssemblyInfoInputs.cache
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.AssemblyInfo.cs
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.csproj.CoreCompileInputs.cache
+D:\UNITYST\02MakeVar\bin\Debug\net6.0\02MakeVar.exe
+D:\UNITYST\02MakeVar\bin\Debug\net6.0\02MakeVar.deps.json
+D:\UNITYST\02MakeVar\bin\Debug\net6.0\02MakeVar.runtimeconfig.json
+D:\UNITYST\02MakeVar\bin\Debug\net6.0\02MakeVar.dll
+D:\UNITYST\02MakeVar\bin\Debug\net6.0\02MakeVar.pdb
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.dll
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\refint\02MakeVar.dll
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.pdb
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\02MakeVar.genruntimeconfig.cache
+D:\UNITYST\02MakeVar\obj\Debug\net6.0\ref\02MakeVar.dll
