@@ -1,0 +1,14 @@
+D:\UNITYST\03IntegerDemo\bin\Debug\net6.0\03IntegerDemo.exe
+D:\UNITYST\03IntegerDemo\bin\Debug\net6.0\03IntegerDemo.deps.json
+D:\UNITYST\03IntegerDemo\bin\Debug\net6.0\03IntegerDemo.runtimeconfig.json
+D:\UNITYST\03IntegerDemo\bin\Debug\net6.0\03IntegerDemo.dll
+D:\UNITYST\03IntegerDemo\bin\Debug\net6.0\03IntegerDemo.pdb
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.AssemblyInfoInputs.cache
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.AssemblyInfo.cs
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.csproj.CoreCompileInputs.cache
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.dll
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\refint\03IntegerDemo.dll
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.pdb
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\03IntegerDemo.genruntimeconfig.cache
+D:\UNITYST\03IntegerDemo\obj\Debug\net6.0\ref\03IntegerDemo.dll
