@@ -1,0 +1,14 @@
+D:\UNITYST\01TestProjuct\bin\Debug\net6.0\01TestProject.exe
+D:\UNITYST\01TestProjuct\bin\Debug\net6.0\01TestProject.deps.json
+D:\UNITYST\01TestProjuct\bin\Debug\net6.0\01TestProject.runtimeconfig.json
+D:\UNITYST\01TestProjuct\bin\Debug\net6.0\01TestProject.dll
+D:\UNITYST\01TestProjuct\bin\Debug\net6.0\01TestProject.pdb
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.AssemblyInfoInputs.cache
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.AssemblyInfo.cs
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.csproj.CoreCompileInputs.cache
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.dll
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\refint\01TestProject.dll
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.pdb
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\01TestProject.genruntimeconfig.cache
+D:\UNITYST\01TestProjuct\obj\Debug\net6.0\ref\01TestProject.dll

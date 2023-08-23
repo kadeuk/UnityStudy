@@ -1,0 +1,14 @@
+D:\UNITYST\CshopProjects\bin\Debug\net6.0\CshopProjects.exe
+D:\UNITYST\CshopProjects\bin\Debug\net6.0\CshopProjects.deps.json
+D:\UNITYST\CshopProjects\bin\Debug\net6.0\CshopProjects.runtimeconfig.json
+D:\UNITYST\CshopProjects\bin\Debug\net6.0\CshopProjects.dll
+D:\UNITYST\CshopProjects\bin\Debug\net6.0\CshopProjects.pdb
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.AssemblyInfoInputs.cache
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.AssemblyInfo.cs
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.csproj.CoreCompileInputs.cache
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.dll
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\refint\CshopProjects.dll
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.pdb
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\CshopProjects.genruntimeconfig.cache
+D:\UNITYST\CshopProjects\obj\Debug\net6.0\ref\CshopProjects.dll

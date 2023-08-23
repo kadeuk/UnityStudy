@@ -15,5 +15,6 @@ class IntegerDemo
         // sbyte는 128 byte 는 255 . int는 21억 uint는 42억
 
         // double : 실수형 데이터 형식 (64비트 부동 소수점 숫자)
+        Console.WriteLine(34.40M);
     }
 }
