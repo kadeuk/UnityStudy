@@ -1,0 +1,14 @@
+D:\UNITYST\06StudentGrading\bin\Debug\net6.0\06StudentGrading.exe
+D:\UNITYST\06StudentGrading\bin\Debug\net6.0\06StudentGrading.deps.json
+D:\UNITYST\06StudentGrading\bin\Debug\net6.0\06StudentGrading.runtimeconfig.json
+D:\UNITYST\06StudentGrading\bin\Debug\net6.0\06StudentGrading.dll
+D:\UNITYST\06StudentGrading\bin\Debug\net6.0\06StudentGrading.pdb
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.AssemblyInfoInputs.cache
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.AssemblyInfo.cs
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.csproj.CoreCompileInputs.cache
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.dll
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\refint\06StudentGrading.dll
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.pdb
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\06StudentGrading.genruntimeconfig.cache
+D:\UNITYST\06StudentGrading\obj\Debug\net6.0\ref\06StudentGrading.dll

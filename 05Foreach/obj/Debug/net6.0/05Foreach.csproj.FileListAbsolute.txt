@@ -1,0 +1,14 @@
+D:\UNITYST\05Foreach\bin\Debug\net6.0\05Foreach.exe
+D:\UNITYST\05Foreach\bin\Debug\net6.0\05Foreach.deps.json
+D:\UNITYST\05Foreach\bin\Debug\net6.0\05Foreach.runtimeconfig.json
+D:\UNITYST\05Foreach\bin\Debug\net6.0\05Foreach.dll
+D:\UNITYST\05Foreach\bin\Debug\net6.0\05Foreach.pdb
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.AssemblyInfoInputs.cache
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.AssemblyInfo.cs
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.csproj.CoreCompileInputs.cache
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.dll
+D:\UNITYST\05Foreach\obj\Debug\net6.0\refint\05Foreach.dll
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.pdb
+D:\UNITYST\05Foreach\obj\Debug\net6.0\05Foreach.genruntimeconfig.cache
+D:\UNITYST\05Foreach\obj\Debug\net6.0\ref\05Foreach.dll

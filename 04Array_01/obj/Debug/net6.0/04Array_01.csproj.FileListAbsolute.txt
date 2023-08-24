@@ -1,0 +1,14 @@
+D:\UNITYST\04Array_01\bin\Debug\net6.0\04Array_01.exe
+D:\UNITYST\04Array_01\bin\Debug\net6.0\04Array_01.deps.json
+D:\UNITYST\04Array_01\bin\Debug\net6.0\04Array_01.runtimeconfig.json
+D:\UNITYST\04Array_01\bin\Debug\net6.0\04Array_01.dll
+D:\UNITYST\04Array_01\bin\Debug\net6.0\04Array_01.pdb
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.AssemblyInfoInputs.cache
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.AssemblyInfo.cs
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.csproj.CoreCompileInputs.cache
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.dll
+D:\UNITYST\04Array_01\obj\Debug\net6.0\refint\04Array_01.dll
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.pdb
+D:\UNITYST\04Array_01\obj\Debug\net6.0\04Array_01.genruntimeconfig.cache
+D:\UNITYST\04Array_01\obj\Debug\net6.0\ref\04Array_01.dll

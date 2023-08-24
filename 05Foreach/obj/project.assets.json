@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNITYST\\CshopProjects\\03CshopProjects.csproj",
-      "projectName": "03CshopProjects",
-      "projectPath": "D:\\UNITYST\\CshopProjects\\03CshopProjects.csproj",
+      "projectUniqueName": "D:\\UNITYST\\05Foreach\\05Foreach.csproj",
+      "projectName": "05Foreach",
+      "projectPath": "D:\\UNITYST\\05Foreach\\05Foreach.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\UNITYST\\CshopProjects\\obj\\",
+      "outputPath": "D:\\UNITYST\\05Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
