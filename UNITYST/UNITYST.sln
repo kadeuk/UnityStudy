@@ -57,13 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02If_1", "..\02If_1\02If_1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03CshopProjects", "..\CshopProjects\03CshopProjects.csproj", "{C32BF946-2F86-4162-BF18-14E2C0B49592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Array_01", "..\04Array_01\04Array_01.csproj", "{347196F7-DE20-4914-9E55-F52613AF584D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Array_01", "..\04Array_01\04Array_01.csproj", "{347196F7-DE20-4914-9E55-F52613AF584D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Foreach", "..\05Foreach\05Foreach.csproj", "{39C1F696-A970-47B8-9AFA-35A5501A7837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Foreach", "..\05Foreach\05Foreach.csproj", "{39C1F696-A970-47B8-9AFA-35A5501A7837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06StudentGrading", "..\06StudentGrading\06StudentGrading.csproj", "{D081A7CF-0447-46D7-91C0-5119EAB51B15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06StudentGrading", "..\06StudentGrading\06StudentGrading.csproj", "{D081A7CF-0447-46D7-91C0-5119EAB51B15}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "C:\Users\Administrator\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{D1BF7C4D-42A2-4F8A-8930-7925849C1519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Bool", "..\07Bool\07Bool.csproj", "{3A225CA4-ECA1-4297-971D-C53CF81312D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -179,6 +181,10 @@ Global
 		{D1BF7C4D-42A2-4F8A-8930-7925849C1519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1BF7C4D-42A2-4F8A-8930-7925849C1519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1BF7C4D-42A2-4F8A-8930-7925849C1519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -211,6 +217,7 @@ Global
 		{39C1F696-A970-47B8-9AFA-35A5501A7837} = {61CA2D53-951B-455A-AF57-70C31694FC62}
 		{D081A7CF-0447-46D7-91C0-5119EAB51B15} = {61CA2D53-951B-455A-AF57-70C31694FC62}
 		{D1BF7C4D-42A2-4F8A-8930-7925849C1519} = {61CA2D53-951B-455A-AF57-70C31694FC62}
+		{3A225CA4-ECA1-4297-971D-C53CF81312D0} = {61CA2D53-951B-455A-AF57-70C31694FC62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17C23403-C75D-4D44-8E23-54EF5C96BD8E}

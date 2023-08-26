@@ -1,0 +1,14 @@
+D:\UNITYST\07Bool\bin\Debug\net6.0\07Bool.exe
+D:\UNITYST\07Bool\bin\Debug\net6.0\07Bool.deps.json
+D:\UNITYST\07Bool\bin\Debug\net6.0\07Bool.runtimeconfig.json
+D:\UNITYST\07Bool\bin\Debug\net6.0\07Bool.dll
+D:\UNITYST\07Bool\bin\Debug\net6.0\07Bool.pdb
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.AssemblyInfoInputs.cache
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.AssemblyInfo.cs
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.csproj.CoreCompileInputs.cache
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.dll
+D:\UNITYST\07Bool\obj\Debug\net6.0\refint\07Bool.dll
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.pdb
+D:\UNITYST\07Bool\obj\Debug\net6.0\07Bool.genruntimeconfig.cache
+D:\UNITYST\07Bool\obj\Debug\net6.0\ref\07Bool.dll
