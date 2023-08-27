@@ -1,0 +1,14 @@
+D:\UNITYST\09Switch\bin\Debug\net6.0\09Switch.exe
+D:\UNITYST\09Switch\bin\Debug\net6.0\09Switch.deps.json
+D:\UNITYST\09Switch\bin\Debug\net6.0\09Switch.runtimeconfig.json
+D:\UNITYST\09Switch\bin\Debug\net6.0\09Switch.dll
+D:\UNITYST\09Switch\bin\Debug\net6.0\09Switch.pdb
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.AssemblyInfoInputs.cache
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.AssemblyInfo.cs
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.csproj.CoreCompileInputs.cache
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.dll
+D:\UNITYST\09Switch\obj\Debug\net6.0\refint\09Switch.dll
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.pdb
+D:\UNITYST\09Switch\obj\Debug\net6.0\09Switch.genruntimeconfig.cache
+D:\UNITYST\09Switch\obj\Debug\net6.0\ref\09Switch.dll

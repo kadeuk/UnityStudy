@@ -65,7 +65,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06StudentGrading", "..\06St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "C:\Users\Administrator\Downloads\Challenge-project-foreach-if-array-CSharp-main\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{D1BF7C4D-42A2-4F8A-8930-7925849C1519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Bool", "..\07Bool\07Bool.csproj", "{3A225CA4-ECA1-4297-971D-C53CF81312D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07Bool", "..\07Bool\07Bool.csproj", "{3A225CA4-ECA1-4297-971D-C53CF81312D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Bool_02", "..\08Bool_02\08Bool_02.csproj", "{A6948E75-B570-446F-86F2-DF2320700ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09Switch", "..\09Switch\09Switch.csproj", "{37E92BC3-DE97-4D26-BCDC-2D48182A2763}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -185,6 +189,14 @@ Global
 		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A225CA4-ECA1-4297-971D-C53CF81312D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6948E75-B570-446F-86F2-DF2320700ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6948E75-B570-446F-86F2-DF2320700ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6948E75-B570-446F-86F2-DF2320700ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6948E75-B570-446F-86F2-DF2320700ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E92BC3-DE97-4D26-BCDC-2D48182A2763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E92BC3-DE97-4D26-BCDC-2D48182A2763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E92BC3-DE97-4D26-BCDC-2D48182A2763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E92BC3-DE97-4D26-BCDC-2D48182A2763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
