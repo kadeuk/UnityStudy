@@ -1,0 +1,14 @@
+D:\UNITYST\11While\bin\Debug\net6.0\11While.exe
+D:\UNITYST\11While\bin\Debug\net6.0\11While.deps.json
+D:\UNITYST\11While\bin\Debug\net6.0\11While.runtimeconfig.json
+D:\UNITYST\11While\bin\Debug\net6.0\11While.dll
+D:\UNITYST\11While\bin\Debug\net6.0\11While.pdb
+D:\UNITYST\11While\obj\Debug\net6.0\11While.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\11While\obj\Debug\net6.0\11While.AssemblyInfoInputs.cache
+D:\UNITYST\11While\obj\Debug\net6.0\11While.AssemblyInfo.cs
+D:\UNITYST\11While\obj\Debug\net6.0\11While.csproj.CoreCompileInputs.cache
+D:\UNITYST\11While\obj\Debug\net6.0\11While.dll
+D:\UNITYST\11While\obj\Debug\net6.0\refint\11While.dll
+D:\UNITYST\11While\obj\Debug\net6.0\11While.pdb
+D:\UNITYST\11While\obj\Debug\net6.0\11While.genruntimeconfig.cache
+D:\UNITYST\11While\obj\Debug\net6.0\ref\11While.dll

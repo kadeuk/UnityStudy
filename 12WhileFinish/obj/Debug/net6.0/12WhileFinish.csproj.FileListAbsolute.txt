@@ -1,0 +1,14 @@
+D:\UNITYST\12WhileFinish\bin\Debug\net6.0\12WhileFinish.exe
+D:\UNITYST\12WhileFinish\bin\Debug\net6.0\12WhileFinish.deps.json
+D:\UNITYST\12WhileFinish\bin\Debug\net6.0\12WhileFinish.runtimeconfig.json
+D:\UNITYST\12WhileFinish\bin\Debug\net6.0\12WhileFinish.dll
+D:\UNITYST\12WhileFinish\bin\Debug\net6.0\12WhileFinish.pdb
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.AssemblyInfoInputs.cache
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.AssemblyInfo.cs
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.csproj.CoreCompileInputs.cache
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.dll
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\refint\12WhileFinish.dll
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.pdb
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\12WhileFinish.genruntimeconfig.cache
+D:\UNITYST\12WhileFinish\obj\Debug\net6.0\ref\12WhileFinish.dll
