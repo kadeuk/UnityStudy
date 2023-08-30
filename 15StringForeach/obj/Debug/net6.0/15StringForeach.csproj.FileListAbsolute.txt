@@ -1,0 +1,14 @@
+D:\UNITYST\15StringForeach\bin\Debug\net6.0\15StringForeach.exe
+D:\UNITYST\15StringForeach\bin\Debug\net6.0\15StringForeach.deps.json
+D:\UNITYST\15StringForeach\bin\Debug\net6.0\15StringForeach.runtimeconfig.json
+D:\UNITYST\15StringForeach\bin\Debug\net6.0\15StringForeach.dll
+D:\UNITYST\15StringForeach\bin\Debug\net6.0\15StringForeach.pdb
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.AssemblyInfoInputs.cache
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.AssemblyInfo.cs
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.csproj.CoreCompileInputs.cache
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.dll
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\refint\15StringForeach.dll
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.pdb
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\15StringForeach.genruntimeconfig.cache
+D:\UNITYST\15StringForeach\obj\Debug\net6.0\ref\15StringForeach.dll

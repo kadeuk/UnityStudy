@@ -1,0 +1,14 @@
+D:\UNITYST\13WhileHomeWork\bin\Debug\net6.0\13WhileHomeWork.exe
+D:\UNITYST\13WhileHomeWork\bin\Debug\net6.0\13WhileHomeWork.deps.json
+D:\UNITYST\13WhileHomeWork\bin\Debug\net6.0\13WhileHomeWork.runtimeconfig.json
+D:\UNITYST\13WhileHomeWork\bin\Debug\net6.0\13WhileHomeWork.dll
+D:\UNITYST\13WhileHomeWork\bin\Debug\net6.0\13WhileHomeWork.pdb
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.AssemblyInfoInputs.cache
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.AssemblyInfo.cs
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.csproj.CoreCompileInputs.cache
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.dll
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\refint\13WhileHomeWork.dll
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.pdb
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\13WhileHomeWork.genruntimeconfig.cache
+D:\UNITYST\13WhileHomeWork\obj\Debug\net6.0\ref\13WhileHomeWork.dll
