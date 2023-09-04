@@ -1,0 +1,14 @@
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.AssemblyInfoInputs.cache
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.AssemblyInfo.cs
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.csproj.CoreCompileInputs.cache
+D:\UNITYST\16OurAnimals\bin\Debug\net6.0\16OurAnimals.exe
+D:\UNITYST\16OurAnimals\bin\Debug\net6.0\16OurAnimals.deps.json
+D:\UNITYST\16OurAnimals\bin\Debug\net6.0\16OurAnimals.runtimeconfig.json
+D:\UNITYST\16OurAnimals\bin\Debug\net6.0\16OurAnimals.dll
+D:\UNITYST\16OurAnimals\bin\Debug\net6.0\16OurAnimals.pdb
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.dll
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\refint\16OurAnimals.dll
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.pdb
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\16OurAnimals.genruntimeconfig.cache
+D:\UNITYST\16OurAnimals\obj\Debug\net6.0\ref\16OurAnimals.dll
