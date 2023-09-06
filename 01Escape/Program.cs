@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Escape
 {
@@ -19,5 +19,6 @@ public class Escape
         Console.WriteLine(@"한줄                    공백");
 
         Console.Read();
+//edit
     }
 }
