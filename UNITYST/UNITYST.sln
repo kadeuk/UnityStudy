@@ -89,7 +89,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16OurAnimals", "..\16OurAni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "C:\Users\Administrator\Downloads\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\Starter.csproj", "{20E1A37D-2ECA-43E4-B63A-3F32E4262EDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17Foreach", "..\17Foreach\17Foreach.csproj", "{0DCAC706-1AEB-4A6E-958A-ECCB90236549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17Foreach", "..\17Foreach\17Foreach.csproj", "{0DCAC706-1AEB-4A6E-958A-ECCB90236549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18For", "..\18For\18For.csproj", "{E7ACAF39-23AF-4D47-8AF6-C11B8462687C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -253,6 +255,10 @@ Global
 		{0DCAC706-1AEB-4A6E-958A-ECCB90236549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DCAC706-1AEB-4A6E-958A-ECCB90236549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DCAC706-1AEB-4A6E-958A-ECCB90236549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7ACAF39-23AF-4D47-8AF6-C11B8462687C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7ACAF39-23AF-4D47-8AF6-C11B8462687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7ACAF39-23AF-4D47-8AF6-C11B8462687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7ACAF39-23AF-4D47-8AF6-C11B8462687C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -296,6 +302,7 @@ Global
 		{79D3CCD8-F979-4214-A596-A4FA3DF7430D} = {652BC93B-33D3-4949-B764-DC2EE51B44D9}
 		{95CA686A-7CF6-44EE-A8C5-5F71E273F59B} = {61CA2D53-951B-455A-AF57-70C31694FC62}
 		{0DCAC706-1AEB-4A6E-958A-ECCB90236549} = {61CA2D53-951B-455A-AF57-70C31694FC62}
+		{E7ACAF39-23AF-4D47-8AF6-C11B8462687C} = {61CA2D53-951B-455A-AF57-70C31694FC62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17C23403-C75D-4D44-8E23-54EF5C96BD8E}

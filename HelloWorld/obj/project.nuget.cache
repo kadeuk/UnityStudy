@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAJ5SmhL6Xbl2P24wb/bQsMLskemMTp7JKyskrSwk8oPe3+Zzjv5ZL+fCr/QZTrCSVMV0SABxilONPaW9qaKKA==",
+  "dgSpecHash": "y8BmNy3gpweth3xbxHjw21/J+SsHStzKOxITOVuLzIeLQ1sxIGy6Spff4rA0+VBt7YSzlDeZII885A9cEcBWoA==",
   "success": true,
-  "projectFilePath": "D:\\UNITYST\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\UnityStudy\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

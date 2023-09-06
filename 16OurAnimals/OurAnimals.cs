@@ -127,7 +127,7 @@ do
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
-
+            
         case "2":
             // Add a new animal friend to the ourAnimals array
             Console.WriteLine("this app feature is coming soon - please check back to see progress.");
@@ -181,3 +181,7 @@ do
 } while (menuSelection != "exit");
 
 //break;
+
+// 030907 
+
+int a = 0;
